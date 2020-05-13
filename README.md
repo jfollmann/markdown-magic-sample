@@ -29,8 +29,17 @@ Look content of README.md
 ### Sub-Section 2.2 Sample
 - This is a section 2.2
 
+## Code of index.js (Auto Gen)
+<!-- AUTO-GENERATED-CONTENT:START (CODE:src=./src/index.js) -->
+<!-- The below code snippet is automatically added from ./src/index.js -->
+<!-- AUTO-GENERATED-CONTENT:END -->
+
 ## DirTree (Auto Gen)
 <!-- AUTO-GENERATED-CONTENT:START (dirTree:dir=.) -->
+<!-- AUTO-GENERATED-CONTENT:END -->
+
+## Remote Sample (Auto Gen)
+<!-- AUTO-GENERATED-CONTENT:START (REMOTE:url=https://randomuser.me/api?inc=name,gender,nat&noinfo) -->
 <!-- AUTO-GENERATED-CONTENT:END -->
 
 ## DependencyTable (Auto Gen)

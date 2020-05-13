@@ -1,1 +1,5 @@
-console.log('hi!');
+const sayHello = (name) => {
+  console.log(`Hello ${name}`);
+}
+
+sayHello('markdown-magic');
