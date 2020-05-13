@@ -1,6 +1,6 @@
 This is a sample `markdown-magic-sample`!
 
-Steps to test:
+## Steps to test:
 
 Look content of README.md
 ```sh
