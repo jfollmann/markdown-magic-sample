@@ -4,7 +4,7 @@ This is a sample `markdown-magic` (https://github.com/DavidWells/markdown-magic)
 
 ## Steps to test:
 
-Look content of README.md
+**Look content of README.md**
 ```sh
 git clone git@github.com:jfollmann/markdown-magic-sample.git 
 
@@ -12,7 +12,7 @@ cd markdown-magic-sample
 npm install
 npm run generate
 ```
-Look content of README.md
+**Look content of README.md again**
 
 ![Use](https://media.tenor.com/images/9f005edb649e847cc9250fbce91d4b23/tenor.gif)
 
