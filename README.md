@@ -1,4 +1,6 @@
-This is a sample `markdown-magic-sample`!
+This is a sample `markdown-magic` (https://github.com/DavidWells/markdown-magic)!
+<!-- AUTO-GENERATED-CONTENT:START (versionBadge:color=blue) -->
+<!-- AUTO-GENERATED-CONTENT:END -->
 
 ## Steps to test:
 
